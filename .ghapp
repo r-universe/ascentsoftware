@@ -1,0 +1,10 @@
+{
+  "id": 85781893,
+  "created_at": "2025-09-13T21:29:16.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["dtlg.data"]
+}
