@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ascentsoftware/ascentsoftware.r-universe.dev
 	branch = HEAD
+[submodule "dtlg.data"]
+	path = dtlg.data
+	url = https://github.com/AscentSoftware/dtlg.data
