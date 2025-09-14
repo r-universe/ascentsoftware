@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/ascentsoftware/ascentsoftware.r-universe.dev
 	branch = HEAD
+[submodule "dtlg"]
+	path = dtlg
+	url = https://github.com/AscentSoftware/dtlg
 [submodule "dtlg.data"]
 	path = dtlg.data
 	url = https://github.com/AscentSoftware/dtlg.data
