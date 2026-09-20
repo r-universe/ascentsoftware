@@ -8,3 +8,6 @@
 [submodule "dtlg.data"]
 	path = dtlg.data
 	url = https://github.com/AscentSoftware/dtlg.data
+[submodule "shinyreprex"]
+	path = shinyreprex
+	url = https://github.com/AscentSoftware/shinyreprex
